@@ -3,150 +3,150 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
     <url>
-        <loc>https://peijun-sang.github.io/</loc>
+        <loc>http://localhost:4321/</loc>
         <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/post/</loc>
+        <loc>http://localhost:4321/post/</loc>
         <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/categories/</loc>
+        <loc>http://localhost:4321/categories/</loc>
         <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/hello-r-markdown/</loc>
+        <loc>http://localhost:4321/hello-r-markdown/</loc>
         <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/tags/plot/</loc>
+        <loc>http://localhost:4321/tags/plot/</loc>
         <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/categories/r/</loc>
+        <loc>http://localhost:4321/categories/r/</loc>
         <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/tags/r-markdown/</loc>
+        <loc>http://localhost:4321/tags/r-markdown/</loc>
         <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/tags/regression/</loc>
+        <loc>http://localhost:4321/tags/regression/</loc>
         <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/tags/</loc>
+        <loc>http://localhost:4321/tags/</loc>
         <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/tags/actor/</loc>
+        <loc>http://localhost:4321/tags/actor/</loc>
         <lastmod>2018-05-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/tags/interest/</loc>
+        <loc>http://localhost:4321/tags/interest/</loc>
         <lastmod>2018-05-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/categories/metaphorsum/</loc>
+        <loc>http://localhost:4321/categories/metaphorsum/</loc>
         <lastmod>2018-05-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/categories/post/</loc>
+        <loc>http://localhost:4321/categories/post/</loc>
         <lastmod>2018-05-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/tags/snowflakes/</loc>
+        <loc>http://localhost:4321/tags/snowflakes/</loc>
         <lastmod>2018-05-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/the-actor-is-a-gander/</loc>
+        <loc>http://localhost:4321/the-actor-is-a-gander/</loc>
         <lastmod>2018-05-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/tags/visitor/</loc>
+        <loc>http://localhost:4321/tags/visitor/</loc>
         <lastmod>2018-05-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/tags/beach/</loc>
+        <loc>http://localhost:4321/tags/beach/</loc>
         <lastmod>2018-03-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/tags/math/</loc>
+        <loc>http://localhost:4321/tags/math/</loc>
         <lastmod>2018-03-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/tags/nothing/</loc>
+        <loc>http://localhost:4321/tags/nothing/</loc>
         <lastmod>2018-03-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/tags/riddles/</loc>
+        <loc>http://localhost:4321/tags/riddles/</loc>
         <lastmod>2018-03-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/the-beach-is-a-push/</loc>
+        <loc>http://localhost:4321/the-beach-is-a-push/</loc>
         <lastmod>2018-03-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/tags/verbatim/</loc>
+        <loc>http://localhost:4321/tags/verbatim/</loc>
         <lastmod>2018-03-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/tags/bookcase/</loc>
+        <loc>http://localhost:4321/tags/bookcase/</loc>
         <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/tags/code/</loc>
+        <loc>http://localhost:4321/tags/code/</loc>
         <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/extending-this-logic/</loc>
+        <loc>http://localhost:4321/extending-this-logic/</loc>
         <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/tags/lamb/</loc>
+        <loc>http://localhost:4321/tags/lamb/</loc>
         <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/tags/shell/</loc>
+        <loc>http://localhost:4321/tags/shell/</loc>
         <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/contact/</loc>
+        <loc>http://localhost:4321/contact/</loc>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/group/</loc>
+        <loc>http://localhost:4321/group/</loc>
     </url>
     
     <url>
-        <loc>https://peijun-sang.github.io/pub/</loc>
+        <loc>http://localhost:4321/pub/</loc>
     </url>
     
 </urlset>

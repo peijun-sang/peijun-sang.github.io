@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Actor on Peijun Sang</title>
-    <link>https://peijun-sang.github.io/tags/actor/</link>
+    <link>http://localhost:4321/tags/actor/</link>
     <description>Recent content in Actor on Peijun Sang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 May 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://peijun-sang.github.io/tags/actor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/tags/actor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The actor is a gander</title>
-      <link>https://peijun-sang.github.io/the-actor-is-a-gander/</link>
+      <link>http://localhost:4321/the-actor-is-a-gander/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://peijun-sang.github.io/the-actor-is-a-gander/</guid>
+      <guid>http://localhost:4321/the-actor-is-a-gander/</guid>
       <description>&lt;p&gt;The actor is often thought of as a performer, someone who takes on different&#xA;roles and personas in front of an audience. But what if we were to extend that&#xA;logic and think of the actor as a gander?&lt;/p&gt;&#xA;&lt;p&gt;Just like a gander, the actor is a visitor in different worlds, experiencing&#xA;them for a brief moment in time before moving on to the next. The gander&#xA;gracefully glides on the surface of the water, taking in the scenery and&#xA;observing the world around it. Similarly, the actor immerses themselves in a&#xA;character and the world of the play, taking in the emotions and experiences of&#xA;the role.&lt;/p&gt;</description>
     </item>
   </channel>
